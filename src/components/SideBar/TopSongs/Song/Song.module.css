@@ -1,0 +1,47 @@
+.songBox {
+    display: flex;
+    margin: 5px 0 16px 0;
+    align-items: center;
+    height: auto;
+    border-bottom: 1px solid  #AFB6B3;
+
+;
+
+}
+.song_number {
+    color: #AFB6B3;
+}
+
+.songImg {
+    width: 50px;
+    margin-left: 10px;
+}
+
+.song_description {
+    text-align: center;
+    margin-left: 10%;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 18px;
+}
+.artist_name {
+    color: #AFB6B3;
+    font-weight: 400;
+    font-size: 15px
+}
+
+.song_time {
+    margin-left: 16%;
+    color: #E4E7E6;
+    font-style: normal;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.loveicon {
+    margin-left: 7%;
+}
+.more_options {
+    margin-left: auto;
+    margin-right: 5%;
+}

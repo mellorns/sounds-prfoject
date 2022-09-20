@@ -1,0 +1,26 @@
+
+
+.container {
+    background-color: #EE4950;
+    height: 100%;
+}
+.artistsContainer {
+    height: 22%;
+    background-color: rebeccapurple;
+
+}
+
+.searchBoxContainer {
+    height: 8vh;
+    background-color: #171717;
+}
+.newContentContainer {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.selectedPage {
+    font-weight: bold;
+}

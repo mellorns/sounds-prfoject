@@ -1,0 +1,23 @@
+
+
+
+.category_container {
+    width: 47%;
+    height: 30%;
+    text-align: center;
+    margin-right: 10px;
+    border-radius: 4px;
+}
+
+.category_title {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+.category_container:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}

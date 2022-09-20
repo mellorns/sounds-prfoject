@@ -1,0 +1,13 @@
+.title_text {
+    text-align: center;
+
+}
+.container {
+    height: 100%;
+}
+
+.songs_container {
+
+    height: 90%;
+    margin: 10px;
+}

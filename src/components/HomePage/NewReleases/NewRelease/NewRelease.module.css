@@ -1,0 +1,23 @@
+
+.newReleaseBox {
+    width: 170px;
+    height: auto;
+    margin: 10px;
+
+    color: white;
+}
+
+.songImg {
+    width: 140px;
+    height:140px;
+
+}
+
+.songText {
+    font-weight: 400;
+    font-size: 13px;
+    color: #AFB6B3;
+}
+.songNameText {
+    font-size: 15px;
+}

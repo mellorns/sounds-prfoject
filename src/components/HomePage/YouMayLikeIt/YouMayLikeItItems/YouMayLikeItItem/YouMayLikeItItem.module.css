@@ -1,0 +1,22 @@
+
+
+.itemBox {
+    width: 130px;
+    height: 100%;
+}
+.itemImg {
+    width: 50px;
+    border-radius: 30px;
+    border: 2px solid rgba(39, 39, 39, 1);
+    outline: 3px solid #FE6721;
+    /*box-shadow: 0 0 0 2px rgba(255, 55, 64, 1) , 0 0 3px 3px #FE6721;*/
+}
+
+.songText {
+    font-weight: 400;
+    font-size: 13px;
+    color: #AFB6B3;
+}
+.songNameText {
+    font-size: 15px;
+}
